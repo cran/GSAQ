@@ -1,0 +1,17 @@
+32146e2a253c1221d92a7fc105038444 *DESCRIPTION
+c2eb71395c2a93d17a30b15ae0a82f87 *NAMESPACE
+0f1e423d235c13ed47602a00810fb6cb *R/GSAQ.R
+20994432a7dfb25d2558352851193127 *data/genelist.rda
+dacc3615d4255623038f368ec9fd4610 *data/qtl_salt.rda
+90955193884b993360a2aa408e749fc4 *data/rice_salt.rda
+74ebeddc9addf598ec0f094d02635a2f *man/GSAQ.Rd
+2a99307eaf61524db52456f1794a82dc *man/GSVQ.Rd
+9ab844861d1a723908a7da9f4cfea1f8 *man/GeneSelect.Rd
+ca91787353e69376c371a8f0c4ce1550 *man/genedist.Rd
+c48abb21eb23edd033d1ebadd0636f0c *man/genelist.Rd
+89e791a2c7f290f241760bb4e09b6058 *man/geneqtl.Rd
+c0cae5cf42490b0bfc7ca692e94d8a1c *man/qtl_salt.Rd
+87bf8b5434f96eaecea8b44adc59d569 *man/qtldist.Rd
+58efb8c718b139e5dbec205bd33785f6 *man/qtlhit.Rd
+1be3c623e83bca29c0d0182ee1e0ab7a *man/rice_salt.Rd
+0486e79c309454052bd7b8f2ba2cc709 *man/totqtlhit.Rd

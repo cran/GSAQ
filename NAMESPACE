@@ -1,0 +1,4 @@
+export(GeneSelect, qtlhit, GSVQ, totqtlhit, GSAQ, genedist, geneqtl, qtldist)
+importFrom("stats", "cor", "var", "phyper", "pt", "pnorm", "pchisq", "density", "qnorm", "t.test")
+importFrom("graphics", "lines", "hist", "barplot")
+importFrom("grDevices", "rainbow")
